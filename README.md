@@ -46,5 +46,5 @@ Edit
 
  
 🙋‍♂️ About the Developer
-Aby George Mathew
+Khadija Sulfi
 Aspiring Flutter and Python developer focused on building useful real-world applications.
